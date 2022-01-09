@@ -1,6 +1,6 @@
 # Task Master
 
-A to-do manager basic application built using Python and Flask. The application was built following [Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA) from FreeCodeCamp.org Youtube channel
+A basic to-do manager application built using Python and Flask. The application was built following [Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA) from FreeCodeCamp.org Youtube channel
 
 ## Usage
 
