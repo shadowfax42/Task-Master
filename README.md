@@ -8,6 +8,9 @@ python app.py
 # Then open the localhost:port#
 ```
 
+![image](https://user-images.githubusercontent.com/76499689/148702104-7c024a79-4836-4c8e-9f6e-7901abebfcce.png)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
